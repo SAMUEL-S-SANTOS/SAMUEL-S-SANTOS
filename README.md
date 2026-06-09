@@ -34,7 +34,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Samuel-Cremonezi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-cremonezi)](https://www.linkedin.com/in/samuel-cremonezi)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-cremonezi)](https://www.linkedin.com/in/samuel-cremonezi)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/3/#search/jocum/FMfcgzQgKvKMQnnDSSMbRstrmXsBNXfh)](mailto:https://mail.google.com/mail/u/3/#search/jocum/FMfcgzQgKvKMQnnDSSMbRstrmXsBNXfh)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/SAMUEL-S-SANTOS/SAMUEL-S-SANTOS/)
 
